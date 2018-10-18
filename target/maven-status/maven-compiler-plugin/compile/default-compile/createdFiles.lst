@@ -1,0 +1,13 @@
+client\CrexiAssetClient.class
+client\LoopNextClient.class
+client\WhitepagesClient.class
+dto\ReverseAddressDTO.class
+dto\AssetArrayDTO.class
+dto\PropertyDTO.class
+docgenerator\EmailGenerator.class
+dto\AuthorizationDTO.class
+docgenerator\ExcelGenerator.class
+dto\BestAndFinalDTO.class
+client\AbstractClient.class
+RequestUtil\RequestUtilities.class
+client\CrexiOauthClient.class
